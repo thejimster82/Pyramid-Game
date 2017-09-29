@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Other\prefabBehavior.cs">
+    <Files>
+      <File FileName="Assets\Other\areaLayout.cs" Line="6" Column="6" />
+      <File FileName="Assets\Other\enemyKillU.cs" Line="26" Column="4" />
+      <File FileName="Assets\Other\restartGame.cs" Line="19" Column="30" />
+      <File FileName="Assets\Other\spawnPlayer.cs" Line="59" Column="36" />
+      <File FileName="Assets\Other\WalkScript.cs" Line="6" Column="2" />
+      <File FileName="Assets\Other\Walking.cs" Line="79" Column="4" />
+      <File FileName="Assets\Other\areaTypes.cs" Line="85" Column="5" />
+      <File FileName="Assets\Other\enemyVisible.cs" Line="23" Column="3" />
+      <File FileName="Assets\Other\prefabBehavior.cs" Line="32" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
